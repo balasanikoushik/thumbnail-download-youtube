@@ -1,9 +1,0 @@
-{
-    "functions": {
-      "php/*": {
-        "runtime": "vercel-community/php@0.4.3",
-        "src": "."
-      }
-    }
-  }
-  
